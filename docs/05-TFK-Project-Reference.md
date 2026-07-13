@@ -38,8 +38,10 @@
 - [ ] Low stock: N.8 Remix (41), N.33 Remix (87)
 - [ ] Missing SKUs and product types on 2025–2026 launches — data hygiene for analytics
 - [ ] Confirm meaning and consistency of the "24h" product tag
-- [ ] Obtain official brand assets (logo files, exact color codes, fonts) to finalize Brand Guidelines v1.1
+- [ ] Obtain official brand assets (exact color codes, fonts) to finalize Brand Guidelines — logo wordmark and two packaging design languages now confirmed via site screenshots (v1.1)
 - [ ] Connect/collect social analytics for the social performance workstream
+- [ ] Cross-check Marketing/Retail Performance deck figures (39,500 followers, 1,134,730 site visits, 12.2M ad impressions) against live ShopifyQL/GA/social insights before external use
+- [ ] Add fragrance notes profiles for catalog items not yet covered in the presentation deck (Petals of Salt, Black Ember, Seventh Sense, Bloom Club, Electric Bloom, Son of a Rose, The Absolute, The Imagination, The Road, L'Extase Blanche)
 
 ## Working Conventions
 

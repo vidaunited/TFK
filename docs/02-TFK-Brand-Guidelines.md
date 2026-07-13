@@ -17,6 +17,13 @@
 
 ## 2. Audience
 
+Per the TFK brand presentation, four segments define the audience:
+1. **Luxury consumers** seeking exclusivity
+2. **Cultural enthusiasts** who appreciate rich heritage
+3. **Fashion-forward individuals**
+4. **Premium gift seekers**
+
+Applied to our channels/pricing:
 - **Primary:** Affluent fragrance lovers in Kuwait and the GCC, 25–45, men and women (portfolio is largely unisex in spirit), who value niche/luxury scents over mass-market designer perfume.
 - **Secondary:** International niche-fragrance enthusiasts discovering Middle Eastern perfumery; gift buyers (major occasions: Eid, Ramadan, National Day, weddings, graduations).
 - **Entry customers:** Younger buyers entering via Discovery Sets (25 KWD), Mists (25 KWD), and the 35 KWD Everyday/Remix tier.

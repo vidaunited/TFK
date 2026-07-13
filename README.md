@@ -13,6 +13,7 @@ TFK (The Fragrance Kitchen) is a luxury fragrance house from Kuwait, founded by 
 | [03 — Product Catalog Reference](docs/03-TFK-Product-Catalog-Reference.md) | Live Shopify catalog snapshot: collections, price tiers, product lines, operational flags (inventory, SKU hygiene) |
 | [04 — Social Media Guidelines](docs/04-TFK-Social-Media-Guidelines.md) | Channel roles, content pillars, tone per platform, posting rhythm, measurement, guardrails |
 | [05 — Project Reference](docs/05-TFK-Project-Reference.md) | Store facts, project scope, open items, working conventions |
+| [06 — Marketing, Retail & Performance](docs/06-TFK-Marketing-Retail-Performance.md) | Traction metrics, retail milestones (Bergdorf Goodman, Neiman Marcus), press highlights, activation playbook |
 
 ## Project scope
 

@@ -41,6 +41,35 @@
 
 **Newest additions (2026).** Black Ember (Jan), Seventh Sense (Jan), L'Extase Blanche (Jan, 75 KWD premium launch), Electric Bloom (May), plus the four curated trio sets (April).
 
+## Fragrance Notes Profiles
+
+*Top / Middle / Base notes per the TFK brand presentation deck. Total portfolio: 20+ Eau de Parfum fragrances, 3 Hair Mists.*
+
+| Fragrance | Top | Middle | Base |
+|---|---|---|---|
+| Abdulrashid Citrus Oud | Fruity, Green | Rose Essence, Rose Abs, Aquatic, Lily, Saffron | Oud, Amber, Musks, Patchouli |
+| Velvet Aura | Herbal, Cardamom, Black Pepper | Galbanum, Cedar Atlas, Hinoki, Cumin, Jasmine | Oud Buaya Laos, Amber, Musk |
+| La Femme Camelia *(Oriental Floral Fruity)* | Green Apple, Peach, Green Pear, Lemon, Bergamot | Tagete, Rose, Leather, Oud | Patchouli, Sandalwood, Cedarwood, Birch |
+| Arab Spring *(Oriental Floral)* | Calabrian Bergamot, Persian Mexican Lime, Green Blossom | White Lilies, Lily-of-the-Valley, Green Tea | Gardenia, White Musk, White Birchwood |
+| Merry Poplin | Lily, Rose, Jasmine, Nard | Cedar, Patchouli, Oud | Sandalwood, Musk |
+| The Perfection *(Floriental Woody Amber)* | Tangerine, Pear, Bergamot, Berries | Damask Aroma Fusion, Jasmine, Peony | Oakmoss, Amber, Leather, Patchouli |
+| Some Like It Bloom | Black Pepper, Bergamot, Lime, Peach, Coconut | Ginger, Incense, Vetiver, Benzoin, Nutmeg | Cedarwood, Musk, Amber, Moss, Sandalwood, Vanilla |
+| Palm Fiction | Pink Pepper, Bergamot | Iris, Rose, Jasmine | Amber, Sandalwood, Patchouli, Musk |
+| War of the Roses *(Pure Oud and Rose)* | Saffron, Orange | Rose, Lily of the Valley | Musk, Sandalwood, Amber — spicy saffron illuminates a rosy heart |
+| A Rose with a View | Bergamot, Rose | Violet, Sandalwood, White Flowers | Patchouli, Musk, Amber |
+| Manik | Blackcurrant, Pear, Aldehydes | Orange Blossom, Jasmine, Iris | Vanilla, Patchouli, Tonka Bean, Fudge |
+| The Hearts | Bergamot, Blood Orange, Citrus Fusion | Cypress, Juniper Berry, Hedione | Musk, Sandalwood, Vetiver |
+| Youth Memory | Mandarin | Saffron-Cedarwood | Vanilla, Castoreum, Musk |
+| Fly Me To The Rose | Blackcurrant, Grapefruit, Apple | Jasmine, Rose, Violet | Patchouli, Musk, Amber |
+| The Finest Everyday | Rose Damascene, Bergamot | Oud Essential Oil, Jasmine | Violet Woods, Guaiacwood, Patchouli, Siberian Pine, White Musk |
+| Musky Ever After | Bergamot, Green notes | Jasmine, Ylang, Rose | Musk, Amber, Wooded |
+| The Man From Ipanema | Lemon, Pepper, Incense | Jasmine, Rose, Plum | Cedarwood, Patchouli, Musk, Amber |
+| Naughty Patchouli | Ylang, Mandarin, Aldehyde | Jasmine, Powder, Rose | Musk, Patchouli, Sandalwood |
+| No. 33 Remix | Aldehyde, Bergamot, Lemon | Rose, Cedar, Sandalwood | Patchouli, Vanilla, Musk |
+| No. 8 Remix | Bergamot, Mandarin, Green notes | Jasmine, Rose, Violet | Vanilla, Sandalwood, Musk |
+
+*Note:* several catalog fragrances (Petals of Salt, Black Ember, Seventh Sense, Bloom Club, Electric Bloom, Son of a Rose, The Absolute, The Imagination, The Road, L'Extase Blanche) aren't yet covered in the notes profile above — pending an updated deck.
+
 ## Operational Flags Noticed in the Catalog (for the ops workstream)
 
 1. **Negative / zero inventory on bundles:** Mist Affair (-19), Some Like It Bloom P&M set (-8), Son of a Rose P&M set (-14), Fly Me to the Rose P&M set (-5), Rose Frequency (-4), Afterlight Accord (-7), Quiet Bloom (-1), The Radiant Veil (-2). Bundles appear to oversell against component stock — inventory sync for bundle SKUs needs review.
@@ -51,4 +80,4 @@
 6. **"24h" tag** appears on a subset of fragrances (likely a delivery/fulfillment promise) — confirm meaning and ensure consistent application.
 
 ---
-*Source: Shopify Admin (The Fragrance Kitchen), July 12, 2026.*
+*Source: Shopify Admin (The Fragrance Kitchen), July 12, 2026, and internal TFK brand presentation deck (fragrance notes profiles, added July 2026).*

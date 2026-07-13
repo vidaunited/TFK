@@ -17,6 +17,14 @@ Sheikh Majed Al-Sabah discovered his olfactory talent at an early age, encourage
 - **Positioning:** Niche luxury fragrance house; Kuwaiti heritage with international credibility
 - **Personality:** Luxurious yet approachable, heritage-rooted yet contemporary, refined with a playful wit (seen in fragrance naming)
 
+## Core Values
+
+Authenticity · Quality · Creativity · Heritage · Community Connection · Collaborative Innovation · Sustainability · Exclusivity
+
+## Target Audience
+
+Luxury consumers seeking exclusivity, cultural enthusiasts who appreciate rich heritage, fashion-forward individuals, and premium gift seekers. *(See Brand Guidelines §2 for detail by segment.)*
+
 ## Business Snapshot
 
 | Attribute | Detail |
@@ -31,6 +39,8 @@ Sheikh Majed Al-Sabah discovered his olfactory talent at an early age, encourage
 | Retail experience | Flagship concept stores (e.g., Al Hamra Mall, Kuwait) designed as immersive sensory spaces — notably the laser-cut wooden wall emulating bukhoor smoke |
 
 ## Product Universe (as live on the store)
+
+**Total offering (per brand presentation):** 20+ Eau de Parfum fragrances, 3 Hair Mists. *(See Product Catalog Reference for the full fragrance notes profile and live Shopify catalog structure.)*
 
 - **Signature Collection** — the core TFK fragrance line (100ml Eau de Parfum, 60–75 KWD)
 - **Exclusive Collection** — elevated/limited compositions (premium tier, 75+ KWD)
@@ -54,4 +64,4 @@ Oud · Taif Rose · Agarwood (bukhoor) · Saffron · Amber · Musk · Jasmine ·
 - WhatsApp commerce line: +965 6363 0075
 
 ---
-*Prepared for the TFK Operations, Sales & Brand Performance project. Source: tfk.com.kw, Shopify store data (July 2026), and public brand coverage.*
+*Prepared for the TFK Operations, Sales & Brand Performance project. Source: tfk.com.kw, Shopify store data (July 2026), public brand coverage, and an internal TFK brand presentation deck (values, audience segmentation, portfolio totals — added July 2026).*

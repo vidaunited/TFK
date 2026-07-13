@@ -1,0 +1,54 @@
+# TFK — Product & Collection Reference
+
+*Snapshot of the live Shopify catalog (tfk.com.kw), July 2026. Prices in KWD. For internal project use — sales analysis, merchandising, and content planning.*
+
+## Collections Structure
+
+| Collection | Handle | Products | Sort Order |
+|---|---|---|---|
+| All Fragrance | all-fragrance | 67 | Best selling |
+| Signature Collection | exclusive-collection | 17 | Best selling |
+| Vintage Collection | vintage-collection | 17 | Manual |
+| Curated Sets | perfume-mist | 9 | Manual |
+| Newest Additions | newest-additions | 9 | Best selling |
+| Exclusive Collection | secret-collection | 8 | Manual |
+| Discovery Sets | discovery-sets | 2 | Best selling |
+
+⚠️ Note the handle mismatch: **Signature Collection** = handle `exclusive-collection`; **Exclusive Collection** = handle `secret-collection`. Verify before linking in campaigns.
+
+## Price Architecture
+
+| Price point | Category | Examples |
+|---|---|---|
+| 25 KWD | Mists (50ml), Discovery Sets, Mist Affair bundle | The Mist Son of a Rose, Discovery Set Chapter 1 & 2 |
+| 35 KWD | Everyday tier (100ml) | The Finest Everyday, Musky Ever After, Naughty Patchouli, The Man from Ipanema, Fly Me to the Rose, N.8 Remix, N.33 Remix, Petals of Salt, Black Ember, Seventh Sense |
+| 60 KWD | Signature tier (100ml) | Manik, Palm Fiction, A Rose with a View, The Absolute, The Hearts, The Imagination, The Perfection, The Road, War of the Roses, Youth Memory, Some Like It Bloom, Son of a Rose, Bloom Club, After Silence, Electric Bloom |
+| 75 KWD | Premium tier (100ml) | Abdul Rashid, Arab Spring, La Femme Camelia, Merry Poplin, Velvet Aura, L'Extase Blanche |
+| 60–90 KWD | Curated trio sets | Rose Frequency (60), Afterlight Accord (60), Quiet Bloom (90), The Radiant Veil (90) |
+| 20–125 KWD | Gift Cards | 6 denominations |
+
+## Product Lines
+
+**Eau de Parfum (core, 100ml).** The heart of the catalog across the 35/60/75 KWD tiers, each with a short evocative scent descriptor (e.g., War of the Roses — "Saffron rose with royal allure"; Arab Spring — "Fresh citrus kissed by florals"; The Absolute — "Oud and leather, unapologetically bold").
+
+**The Mist (Body & Hair, 50ml, 25 KWD).** Son of a Rose, Fly Me to the Rose, Some Like It Bloom — extensions of hero fragrances; recruitment and layering products.
+
+**Perfume + Mist duos (35–60 KWD).** Some Like It Bloom, Son of a Rose, Fly Me to the Rose sets — AOV builders pairing hero EDP with matching mist.
+
+**Discovery Sets (12x2ml, 25 KWD).** Chapter 1 (White) and Chapter 2 (Black) — the designated entry point of the "fragrance journey" and key gifting item.
+
+**Curated trio sets.** Rose Frequency, Afterlight Accord, Quiet Bloom, The Radiant Veil — mood-based trios ("shaped by contrast and depth for every mood").
+
+**Newest additions (2026).** Black Ember (Jan), Seventh Sense (Jan), L'Extase Blanche (Jan, 75 KWD premium launch), Electric Bloom (May), plus the four curated trio sets (April).
+
+## Operational Flags Noticed in the Catalog (for the ops workstream)
+
+1. **Negative / zero inventory on bundles:** Mist Affair (-19), Some Like It Bloom P&M set (-8), Son of a Rose P&M set (-14), Fly Me to the Rose P&M set (-5), Rose Frequency (-4), Afterlight Accord (-7), Quiet Bloom (-1), The Radiant Veil (-2). Bundles appear to oversell against component stock — inventory sync for bundle SKUs needs review.
+2. **The Finest at 2 units** — near stockout on a named favorite; confirm restock or intended phase-out.
+3. **Low stock:** N.8 Remix (41), N.33 Remix (87).
+4. **Missing SKUs** on newer products (Petals of Salt, Bloom Club, After Silence, Black Ember, Seventh Sense, trio sets) — impacts barcode ops and reporting hygiene.
+5. **Missing product types** on several newer products (blank productType) — affects collection automation and analytics grouping.
+6. **"24h" tag** appears on a subset of fragrances (likely a delivery/fulfillment promise) — confirm meaning and ensure consistent application.
+
+---
+*Source: Shopify Admin (The Fragrance Kitchen), July 12, 2026.*

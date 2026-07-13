@@ -79,7 +79,7 @@
 4. **Missing SKUs** on newer products (Petals of Salt, Bloom Club, After Silence, Black Ember, Seventh Sense, trio sets) — impacts barcode ops and reporting hygiene.
 5. **Missing product types** on several newer products (blank productType) — affects collection automation and analytics grouping.
 6. **Placeholder SKU:** Abdul Rashid uses SKU `00000` — not a real barcode, same data-hygiene risk as a missing SKU.
-6. **"24h" tag** appears on a subset of fragrances (likely a delivery/fulfillment promise) — confirm meaning and ensure consistent application.
+7. **"24h" tag** appears on a subset of fragrances (likely a delivery/fulfillment promise) — confirm meaning and ensure consistent application.
 
 ---
 *Source: Shopify Admin (The Fragrance Kitchen), July 12, 2026; internal TFK brand presentation deck (fragrance notes profiles, added July 2026); re-verified against live Shopify Admin data July 13, 2026 — collections, price tiers, and negative-inventory figures confirmed exact; The Finest (30 KWD) and the Abdul Rashid placeholder SKU added as findings from that pass.*

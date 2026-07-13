@@ -49,9 +49,10 @@ Applied to our channels/pricing:
 - **Palette direction:** Monochrome black/white foundation with warm luxury accents (amber, gold tones); product photography carries the color. *(Confirm exact hex values with the brand team / WAVE, the web developer.)*
 - **Photography style:** Clean, editorial, product-forward; bottles as heroes; warm lighting; retail imagery leans on the immersive store concept (the bukhoor-smoke wooden wall is a signature visual).
 - **Naming convention:** Fragrance names in ALL CAPS on product cards and packaging (ARAB SPRING, LA FEMME CAMELIA, BLACK EMBER).
-- **Two packaging design languages confirmed on-site:**
-  - *Signature/Exclusive tier* (e.g. After Silence) — matte black bottle, black cap, centered white ornate mandala emblem above the fragrance name, minimal and ritualistic.
-  - *Sets/rotation tier* ("The Sets") — matte off-white/cream bottles, black cap, oversized abstract graphic typography unique per scent (bold overlapping letterforms/numerals in red, navy, silver) covering the label; more playful and collectible, distinct from the Signature bottle's restraint.
+- **Two packaging design languages confirmed on-site — not tier-based.** Initially assumed to map to price tier; a product page screenshot of *War of the Roses* (Signature tier, 60 KWD) shows it uses the bold graphic-typography design, the same language as "The Sets" rotation trio, not the mandala design. So both languages coexist within the same tier — likely distinct capsule/era lines rather than a tier rule:
+  - *Mandala design* (e.g. After Silence) — matte black bottle, black cap, centered white ornate mandala emblem above the fragrance name, minimal and ritualistic.
+  - *Graphic-typography design* (e.g. War of the Roses, The Sets trio) — matte off-white/cream bottle, black cap, oversized abstract graphic typography unique per scent (bold overlapping letterforms/numerals in black, red, navy, or silver) covering the label; more playful and collectible, distinct from the mandala bottle's restraint.
+  - Product description copy confirmed on the War of the Roses page: *"A spicy saffron note illuminates the rosy heart and delicate Lily-of-the-Valley, blending with oud and a musky dry-down."* — matches the evocative, sensorial voice already documented in §3, and the notes (Top: Saffron, Orange / Middle: Rose, Lily-of-the-Valley / Base: Musk, Sandalwood, Amber) match the Product Catalog Reference exactly.
 - **Service messaging on-site:** "Buy Now Pay Later Available Now in Kuwait" banner — add BNPL to approved service reassurances (see §6).
 
 ## 5. Product & Price Architecture (for consistent communication)

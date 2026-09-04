@@ -11,7 +11,6 @@ Checks every README.md / docs/*.md file for:
 Exits non-zero if any file has issues, printing a report to stdout.
 """
 import os
-import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
